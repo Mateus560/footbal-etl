@@ -82,10 +82,10 @@ football-etl/
 
 ## Dashboard
 
-`![Dashboard do Brasileirão 2024](images/metricas-dashboard.png)`
+`![Dashboard do Brasileirão 2024](imagens/metricas-dashboard.png)`
 
-`![Dashboard do Brasileirão 2024](images/cinco_primeiras_partidas_dashboard.png)`
+`![Dashboard do Brasileirão 2024](imagens/cinco_primeiras_partidas_dashboard.png)`
 
-`![Dashboard do Brasileirão 2024](images/ranking_artilharia_clube.png)`
+`![Dashboard do Brasileirão 2024](imagens/ranking_artilharia_clube.png)`
 
-`![Dashboard do Brasileirão 2024](images/seletor_individual_classificacao_geral.png)`
+`![Dashboard do Brasileirão 2024](imagens/seletor_individual_classificacao_geral.png)`
