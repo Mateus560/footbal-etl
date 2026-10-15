@@ -65,6 +65,7 @@ streamlit run app.py
 ```
 football-etl/
 ├── .gitignore
+├── imagens/
 ├── etl.ipynb
 ├── brasileirao.db
 ├── app.py
