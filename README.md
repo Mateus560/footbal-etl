@@ -82,10 +82,18 @@ football-etl/
 
 ## Dashboard
 
-![Métricas do Brasileirão 2024](./imagens/metricas-dashboard.png)
+### Métricas Gerais
 
-![Dashboard do Brasileirão 2024](imagens/cinco_primeiras_partidas.png)
+![Métricas do Brasileirão 2024](imagens/metricas.png)
 
-![Dashboard do Brasileirão 2024](imagens/ranking_artilharia_clube.png)
+### 5 Primeiras Partidas do Campeonato
 
-![Dashboard do Brasileirão 2024](imagens/seletor_individual_classificacaao_geral.png)
+![Cinco Primeiras Partidas do Brasileirão 2024](imagens/cinco_primeiras_partidas.png)
+
+### Ranking
+
+![Ranking de Artilharia Por Clube do Brasileirão 2024](imagens/ranking_artilharia_clube.png)
+
+### Seletor individual + Classificação Geral
+
+![Dashboard do Brasileirão 2024](imagens/seletor_individual_classificacao_geral.png)
