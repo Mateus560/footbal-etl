@@ -79,3 +79,13 @@ football-etl/
 * `requirements.txt`: dependências Python necessárias para executar o projeto.
 * `.gitignore`: arquivos e pastas que não devem ser enviados ao Git.
 * `LICENSE`: licença de uso do projeto.
+
+## Dashboard
+
+`![Dashboard do Brasileirão 2024](images/metricas-dashboard.png)`
+
+`![Dashboard do Brasileirão 2024](images/cinco_primeiras_partidas_dashboard.png)`
+
+`![Dashboard do Brasileirão 2024](images/ranking_artilharia_clube.png)`
+
+`![Dashboard do Brasileirão 2024](images/seletor_individual_classificacao_geral.png)`
