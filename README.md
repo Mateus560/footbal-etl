@@ -88,4 +88,4 @@ football-etl/
 
 ![Dashboard do Brasileirão 2024](imagens/ranking_artilharia_clube.png)
 
-![Dashboard do Brasileirão 2024](imagens/seletor_individual_classificacao_geral.png)
+![Dashboard do Brasileirão 2024](imagens/seletor_individual_classificacaao_geral.png)
