@@ -32,7 +32,7 @@ O projeto utiliza dados de partidas para construir um pipeline ETL (Extração, 
 1. **Clone o Repositório**
 
 ```Shell
-git clone https://gitgub.com/Mateus560/football-etl
+git clone https://github.com/Mateus560/football-etl
 cd football-etl
 ```
 
